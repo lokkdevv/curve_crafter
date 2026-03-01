@@ -54,7 +54,7 @@ make linux_pong
 ## Running
 After compiling, run from the terminal and pass a mathematical expression as an argument:
 ```bash
-./bin/CurveCrafter "2*x*x+4*x+7"
+./bin/CurveCrafter "x*x/100"
 ```
 To run the pong game you can either open it as any regular exe or open it via terminal:
 ```bash
