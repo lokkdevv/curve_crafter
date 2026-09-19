@@ -1,10 +1,7 @@
 #pragma once
 
-<<<<<<< HEAD
-=======
 #define _DEFAULT_SOURCE
 
->>>>>>> 103097f (Fixed the problem where compiling on linux didn't work because a macro was missing)
 #include <termios.h>
 #include <unistd.h>
 #include <fcntl.h>
